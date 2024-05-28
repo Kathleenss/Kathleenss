@@ -1,8 +1,8 @@
 ### Hola 👋
 
-- 🔭 I’m a PhD student currently working on urban travel choices and their externalities
-- 🌱 I’m currently learning about Network Analysis and Netlogo Modeling 
-- 👯 I’m looking to collaborate on Complex Adaptive systems and Agent Based Models 
+- 🔭 I’m a PhD candidate currently working on urban travel choices and their externalities
+- 🌱 I’m applying Network Analysis and NetLogo Modeling to analyze urban transport policies 
+- 👯 I’m looking to collaborate on Complex Adaptive Systems and Agent-Based Models topics 
 - 📫 How to reach me: kgsalaza@unal.edu.co - kgsalaza@gmail.com 
 
 
